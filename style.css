@@ -577,11 +577,31 @@ transition: all .4s;
 
    .about-us-heading{
        font-size: 3rem;
+       text-align: center;
    }
 
    .image{
+       width: 15rem;
+   }
+
+   .footer-input{
        width: 20rem;
    }
+   .gallery{
+    max-width: 100rem;
+    
+
+}
+  .image-wrapper{
+    width: 10rem;
+}
+.navigation{
+    width: 32rem;
+}
+.navigation-search-input{
+    width: 20rem;
+
+
 
     
 }
